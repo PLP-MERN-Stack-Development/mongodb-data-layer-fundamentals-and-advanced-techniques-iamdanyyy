@@ -41,10 +41,20 @@ Complete all the exercises in this assignment and push your code to GitHub using
 4. Run the provided `insert_books.js` script to populate your database
 5. Complete the tasks in the assignment document
 
+```bash
+# after finishing the assignment
+```
+6. Run the `queries.js` script to execute the queries and tasks as per the assignment specification - Changes will      reflect in the database and get logged to the terminal
+
 ## Files Included
 
 - `Week1-Assignment.md`: Detailed assignment instructions
 - `insert_books.js`: Script to populate your MongoDB database with sample book data
+
+```bash
+# after finishing the assignment
+```
+- `queries.js`: Script to alter and query the populated MongoDB database
 
 ## Requirements
 
